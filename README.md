@@ -1,8 +1,11 @@
 # Blinder-and-Fake-Sleepers
 
 This toy model was developed during the "Introduction to Agent-Based Modeling" MOOC offered by the Santa Fe Institute. My aim was to create a tangible framework to articulate my general observations about the world around me, given the difficulties of expressing such ideas through any traditional scientific publications.
+
 I'm not involved in any specific field relating to the topic of the model, so this might be just something old and vintage in another scientific community I don't know. In another word, it is just for fun.
+
 My initial plan is to submit it to netlogo community model site, unfortranately their server is temporally down but I will try it again later.
+
 
 ## Model Scope
 
