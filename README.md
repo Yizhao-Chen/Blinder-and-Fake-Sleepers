@@ -1,12 +1,5 @@
 # Blinder-and-Fake-Sleepers
 
-This toy model was developed during the "Introduction to Agent-Based Modeling" MOOC offered by the Santa Fe Institute. My aim was to create a tangible framework to articulate my general observations about the world around me, given the difficulties of expressing such ideas through any traditional scientific publications.
-
-I'm not involved in any specific field relating to the topic of the model, so this might be just something old and vintage in another scientific community I don't know. In another word, it is just for fun.
-
-My initial plan is to submit it to netlogo community model site, unfortranately their server is temporally down but I will try it again later.
-
-
 ## Model Scope
 
 The model called "Blinders and the fake sleepers" here describes my understanding of how innovative progress is approached in a particular (scientific) field, based on my personal observation and experience after working with researchers from several disciplines. Specifically, the model describes the  progress of a (scientific) field as a spire-like pathway, with the width of the path gradually becoming narrower. The design of the world suggests that the resource (like fundings in real world) are abundant and easily accessible in the outer circles. While as one moves closer to the center, resources become scarcer, and the difficulty of advancing increases. Yet, once a person reaches the inner circles of the spire-like pathway, they gain access to all the resources available there.
